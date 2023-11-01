@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS styling</title>
+    <!-- External -->
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <!-- inline -->
+    <h1 style="color: blue;">Blue Heading</h1>
+    <p style="font-weight: 500;">Welcome to PVPPCOE.</p>
+
+    <!-- internal -->
+    <style>
+        h1 {
+            color: green;
+        }
+        p {
+            font-size: 20px;
+        }
+    </style>
+    <h1>Green Heading</h1>
+    <p>Vasanatdada patil college of engineering </p>
+
+</body>
+</html>
+
+
+
+
+Style.css
+h3 {
+    color: red;
+}
+
+p {
+    font-size: 24px;
+}

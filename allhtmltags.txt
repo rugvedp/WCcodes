@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Web computing</title>
+</head>
+<body>
+    <header>
+        <h1>PVPPCOE</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Departments</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>About Us</h2>
+            <p>Vasantdada Patil Pratishthan’s College of Engineering & Visual Arts (VPPCOEVA) formerly known as Padmabhushan Vasantdada Patil Pratishthan’s College of Engineering (PVPPCOE) is one of the top private Engineering Colleges in Mumbai.</p>
+        </section>
+
+        <section>
+            <h2>Address</h2>
+            <p>Vasantdada Patil Educational Complex, Eastern Express Highway, Padmabhushan Vasantdada Patil Marg, Sion Mumbai 400022..</p>
+        </section>
+
+        <table style="border: 1px solid black;">
+            <caption>Departments</caption>
+            <thead >
+                <tr>
+                    <th>Name</th>
+                    <th>Intake</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>AIDS</td>
+                    <td>60</td>
+                </tr>
+                <tr>
+                    <td>IT</td>
+                    <td>120</td>
+                </tr>
+            </tbody>
+        </table>
+    </main>
+
+    <aside>
+        <h3>Contact Us</h3>
+        <p>+91 1234567890</p>
+    </aside>
+
+    <footer>
+        <p>&copy; 2023 PVPPCOE</p>
+    </footer>
+    
+    <img src="https://pvppcoe.ac.in/wp-content/uploads/2022/12/pop-up-image.jpg" alt="Placeholder Image 1" width="150" height="150">
+    <button>Contact Form</button>
+</body>
+</html>
